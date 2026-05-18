@@ -1,4 +1,4 @@
 ```
-# No build artifacts, dependencies, or temp files detected in changes
-# Only markdown files added (.md), which are source content
+# Documentation files
+*.md
 ```

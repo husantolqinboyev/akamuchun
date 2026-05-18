@@ -9,6 +9,9 @@ Bu bo'limni o'rgangach, siz:
 - Muzakkar (erkak) va muannas (ayol) jinslarini farqlay olasiz
 - Olmoshlarni to'g'ri ishlatishni o'rganasiz
 - Ko'rsatish olmoshlari yordamida oddiy gaplar tuzolasiz
+- So'roq so'zlari bilan savol berishni o'rganasiz
+
+> 💡 **Motivatsiya:** Arab tilini o'rganish — bu nafaqat yangi til, balki yangi madaniyat va fikrlash tarzini o'rganishdir. Har bir yangi so'z sizni 300 milliondan ortiq insonlar bilan muloqot qilish imkoniyatiga yaqinlashtiradi!
 
 Keling, boshlaymiz!
 
@@ -112,10 +115,22 @@ Quyidagi so'zlarni muzakkar yoki muannas deb ajrating:
 | Arabcha | Transkripsiya | O'zbekcha |
 | :--- | :--- | :--- |
 | أَنَا طَالِبٌ | *Ana toolibun* | Men talabaman |
-| أَنْتَ مُعَلِّمٌ | *Anta muallimun* | Sen o'qituvchisan |
-| هِيَ طَالِبَةٌ | *Hiya toolibatun* | U (qiz) talabadir |
-| نَحْنُ مُسْلِمُونَ | *Nahnu muslimuuna* | Biz musulmonlarmiz |
-| هُمْ أَصْدِقَاءُ | *Hum asdiqo-u* | Ular do'stlardir |
+| أَنْتَ مُعَلِّمٌ | *Anta muallimun* | Sen o'qituvchisan | Erkakka qarata |
+| أَنْتِ مُعَلِّمَةٌ | *Anti muallimatun* | Sen o'qituvchisan | Ayolga qarata |
+| هِيَ طَالِبَةٌ | *Hiya toolibatun* | U (qiz) talabadir | - |
+| نَحْنُ مُسْلِمُونَ | *Nahnu muslimuuna* | Biz musulmonlarmiz | - |
+| هُمْ أَصْدِقَاءُ | *Hum asdiqo-u* | Ular do'stlardir | Erkaklar yoki aralash guruh |
+| هُنَّ صَدِيقَاتٌ | *Hunna sodiiqootun* | Ular do'stlardir | Faqat ayollar |
+
+### Diqqat! Jins va Son Moslashuvi
+
+Sifat va xabar otning jinsiga va soniga mos kelishi kerak:
+
+| Noto'g'ri ❌ | To'g'ri ✅ | Sabab |
+| :--- | :--- | :--- |
+| هِيَ طَالِبٌ | هِيَ طَالِبَةٌ | "Hiya" muannas, sifat ham muannas bo'lishi kerak |
+| هُمْ مُعَلِّمَةٌ | هُمْ مُعَلِّمُونَ | "Hum" ko'plik erkak, sifat ham ko'plik erkak bo'lishi kerak |
+| أَنْتَ طَالِبَةٌ | أَنْتَ طَالِبٌ | "Anta" erkak, sifat ham erkak bo'lishi kerak |
 
 ---
 
